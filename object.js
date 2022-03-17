@@ -13,10 +13,13 @@ console.log('computer ID= ',computer.id);
 var computerColor= computer.color;
 console.log('Computer color ',computerColor);
 
-// set a value object property change
+// set a value object property  many ways
 computer.price= 300000;
+computer['color']='black'
 
-console.log('computer price ', computer.price)
+console.log('computer price  ', computer.price)
+
+console.log('ttal upadte details', computer)
 
 
 
