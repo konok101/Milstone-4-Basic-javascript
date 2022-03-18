@@ -17,8 +17,6 @@ console.log('Computer color ',computerColor);
 computer.price= 300000;
 computer['color']='black'
 console.log(computer['color']);
- 
-
 console.log('computer price  ', computer.price)
 
 console.log('ttal upadte details', computer)
