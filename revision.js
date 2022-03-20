@@ -86,6 +86,7 @@
 
 
 // dimple percentage calculate
+// 200 er 20% amn type
 
 function percentCAl(value1, value2){
     let percentage=value1*value2/100;
